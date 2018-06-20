@@ -1,0 +1,5 @@
+version: 2
+projects:
+- dir: standalone-with-workspace
+  workspace: staging
+- dir: standalone
